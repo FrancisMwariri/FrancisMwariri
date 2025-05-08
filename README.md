@@ -27,7 +27,7 @@ Here are a few things I’ve worked on or currently developing:
 ---
 
 ### 📫 Let's Connect
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [zackkings931@gmail.com]
 - 🌐 LinkedIn: [Add your LinkedIn URL]
 - 🌍 Portfolio: [Coming soon...]
 
