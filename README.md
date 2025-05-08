@@ -5,8 +5,8 @@ I'm a passionate and self-driven developer currently pursuing a Bachelor's degre
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: PHP, JavaScript, Python, C++
-- 🌐 Web: HTML, CSS, Tailwind CSS, Laravel
+- 💻 Languages: PHP, JavaScript, 
+- 🌐 Web: HTML, CSS, Tailwind CSS
 - ⚙️ Tools: Git, GitHub, MySQL, VS Code
 - 📲 Interests: Web development, mobile-friendly systems, educational platforms
 
